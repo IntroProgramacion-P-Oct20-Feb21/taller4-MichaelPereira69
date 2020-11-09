@@ -29,7 +29,6 @@ public class EjemploDos {
         double costoMetro;
         // 6. costoTerreno, d[0, n]
         double costoTerreno;
-        
         // pido datos por teclado - entradas
         // 7. Escribir "Ingrese el largo del terreno"
         System.out.println("Ingrese el largo del terreno");
@@ -53,5 +52,7 @@ public class EjemploDos {
         // salida
         // 15. Escribir "El costo del terreno es :" + costoTerreno
         System.out.printf("El costo del terreno es : %.2f\n", costoTerreno);
+        /* El costo del terreno es 10000 y el comprador es Michael Pereira 
+           */  
     } // 16. Fin
 }
